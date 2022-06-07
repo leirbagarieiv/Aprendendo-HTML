@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Exercício nº 5</title>
+  </head>
+  <body>
+    <hr align="center" noshade color="purple" size="10" width="30%">
+    <h2>
+      <font color="blue">
+        <font face="georgia">
+         <center> Divisões <BR>Citações <BR>Endereços 
+           </h2>
+<blockquote>
+<hr noshade> 
+<p>
+<font color="black">" Com grandes poderes vem grandes responsabilidades." <br>
+   <font color="red">
+     --Ben Parker.</p>
+</blockquote>
+  <nr noshade>
+    <blockquote>
+      <p>
+        <font color="black">
+         " A parada não é quantas vezes te derrubam, mas quantas vezes você levanta" <br>
+          <font color="red">
+            -- Sett, O Chefe. </p>
+          </blockquote>
